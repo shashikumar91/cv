@@ -1,0 +1,60 @@
+body {
+    background-color: #d3e0ea;
+    font-family: 'Bree Serif', serif;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin-bottom: 0px;
+}
+
+h3{
+    color: #845ec2;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 0px;
+
+}
+
+h4{
+    font-family: 'Righteous', cursive;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.jobtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.basicinfo{
+
+}
+
+.profile{
+
+}
+
+.careerhighlight{
+
+}
+
+.highlightlist{
+
+}
+
+.skillslist{
+
+}
+
+.workexp{
+
+}
+
+.declaration{
+    
+}
