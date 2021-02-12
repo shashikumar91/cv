@@ -1,6 +1,7 @@
 body {
     background-color: #d3e0ea;
     font-family: 'Bree Serif', serif;
+    text-align: center;
 }
 
 hr{
@@ -9,57 +10,80 @@ hr{
     border-color: grey;
     border-width: 5px;
     width: 5%;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    
 }
 
 h3{
-    color: #845ec2;
+    color: #ec4646;
     font-family: 'Lobster', cursive;
     margin-bottom: 0px;
+    text-align: center;
 
 }
 
 h4{
-    font-family: 'Righteous', cursive;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 5px;
-    margin-bottom: 5px;
+    color: #663f3f;
 }
 
 .jobtitle{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
     margin-top: 0px;
+    
 }
 
 .basicinfo{
     position: relative;
+    height: 100px;
+    color: gray;
 
 }
 
 .profile{
     position: relative;
+    height: 100px;
+    margin-bottom: 60pt;
 }
 
 .careerhighlight{
     position: relative;
+    height: 100px;
     
 }
 
 .highlightlist{
-    position: absolute;
-    font-family: 'Hanalei', cursive;
+    font-family: 'Bree Serif', serif;
+    text-align: left;
+    height: 100px;
+    margin-top: 50px;
+    margin-bottom: 400pt;
     
 
 }
 
 .skillslist{
+    text-align: left;
+    height: 100px;
+    font-family: 'Bree Serif', serif;
+    margin-bottom: 60pt;
 
 }
 
 .workexp{
+    height: 100px;
+    font-family: 'Bree Serif', serif;
+    margin-bottom: 150pt;
 
 }
 
 .declaration{
+    height: 100px;
+    font-family: 'Bree Serif', serif;
+    margin-top: 30pt;
+    
 
 }
